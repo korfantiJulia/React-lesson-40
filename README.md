@@ -96,7 +96,7 @@ Then open your browser and go to:
 http://localhost:5173
 
 
-Live demo is available here:
+Live demo is available here: https://react-lesson-40-self.vercel.app/
 
 
 
