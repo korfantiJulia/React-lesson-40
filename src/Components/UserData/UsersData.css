@@ -1,0 +1,28 @@
+.users-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.user-item {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 400px;
+}
+
+.user-item strong {
+  display: block;
+  font-size: 16px;
+}
+
+.user-item span {
+  color: #555;
+  font-size: 14px;
+}
